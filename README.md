@@ -1,2 +1,2 @@
-# client
-This will be a part of parent
+# (Child) client
+The Client will be a part of the parent
